@@ -17,7 +17,7 @@
           <img :src="pickedImage.src" alt="" class="relative z-30 " :key="pickedImage.key">
         </div>
       </div>
-      <p class="text-lg md:text-xl tracking-wider w-32 -ml-2 text-left justify-left grid z-20 md:order-1 ">YOU PICKED</p>
+      <p class="text-lg md:text-xl tracking-wider w-32 -ml-7 md:-ml-2 text-left justify-left grid z-20 md:order-1 ">YOU PICKED</p>
 
     </div>
 

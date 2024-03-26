@@ -19,9 +19,6 @@ export default {
         '128': '26rem',
 
       },
-      minHeight: {
-        '122': '110vh',
-      },
       colors: {
         RadialGradient1: "hsl(214, 47%, 23%)", 
         RadialGradient2:"hsl(237, 49%, 15%)",
