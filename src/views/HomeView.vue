@@ -11,7 +11,7 @@
     </div>
     <step2Component v-else :pickedImage="pickedImage" @update-score="handleScoreUpdate" @play-again="handlePlayAgain" />
 
-    <button @click="getRules" class="absolute  left-36 right:0 md:right-5 md:left-auto bottom-4 px-3 md:w-32 py-1 mt-5
+    <button @click="getRules" class=" flex justify-center items-center md:absolute  w-28 m-auto   md:right-5 md:left-auto bottom-4 px-3 md:w-32 py-1 mt-5
     rounded-md text-lg tracking-widest text-white border-2 border-white font-barlow z-40 ">
       RULES
     </button>

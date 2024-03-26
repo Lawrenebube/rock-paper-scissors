@@ -1,6 +1,6 @@
 <template>
 
-    <div class="images p-auto relative w-24 h-80 md:h-24  md:ml-auto 
+    <div class="images p-auto relative w-24 h-80 m-auto md:h-24  md:ml-auto 
         before:absolute before:w-64 md:before:w-full before:h-72 before:m-auto before:right-18 before:top-28
          md:before:-right-36 md:before:top-24  before:bg-[url('../assets/images/bg-triangle.svg')] 
         before:bg-no-repeat before:bg-contain ">
