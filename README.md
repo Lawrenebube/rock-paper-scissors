@@ -1,4 +1,5 @@
 # ROCK_PAPER_SCCISSORS
+netlify https://lawrenebube-rock-paper-scissors.netlify.app/
 
 This template should help get you started developing with Vue 3 in Vite.
 
